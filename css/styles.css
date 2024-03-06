@@ -24,7 +24,7 @@ body {
 }
 
 .logo p,
-.contacts a {
+.contacts a, b {
     font-size: 22px;
     color: #d0670c;
     text-decoration-line: none;
